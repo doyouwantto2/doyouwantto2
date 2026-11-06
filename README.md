@@ -8,8 +8,6 @@ I like maintainable software yet high-performance applications.
 
 </div>
 
-## About
-
 🎯 **My career goal:** Backend Engineer in Japan 🇯🇵
 
 🎓 **Current education:** University of Information Technology (UIT) – Vietnam National University, Ho Chi Minh City
@@ -49,12 +47,9 @@ I like maintainable software yet high-performance applications.
 
 ## Languages
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+</p>
 
 ## DevOps
 
@@ -66,15 +61,7 @@ I like maintainable software yet high-performance applications.
 
 </div>
 
-## GitHub Activity
-
-<p align="left">
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/doyouwantto2/doyouwantto2/main/.github/badges/contributions.json&style=flat" alt="Contributions" />
-  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/doyouwantto2/doyouwantto2/main/.github/badges/status.json&style=flat" alt="Activity status" />
-  <img src="https://img.shields.io/github/commit-activity/m/doyouwantto2?style=flat&label=commits%2Fmonth&color=3178c6&logo=github&logoColor=white" alt="Commits per month" />
-  <img src="https://img.shields.io/github/stars/doyouwantto2?style=flat&label=stars&color=ffc131&logo=github&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/doyouwantto2?style=flat&label=followers&color=0f172a&logo=github&logoColor=white" alt="Followers" />
-</p>
+## Status
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=doyouwantto2&hide_border=true&short_numbers=true&card_width=380" alt="GitHub contribution streak" width="380" />
