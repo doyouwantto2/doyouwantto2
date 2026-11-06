@@ -30,7 +30,6 @@ My future goal is to work in Japan as a Backend Engineer.
         <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/Diesel-000000?style=for-the-badge&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
-        <img src="https://img.shields.io/badge/utoipa-000000?style=for-the-badge&logo=rust&logoColor=white" />
         <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
