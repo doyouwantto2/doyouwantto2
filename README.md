@@ -1,8 +1,10 @@
-Just a random person you can see anywhere. I like maintainable software yet high-performance applications.
+# Nguyen Nam Phong
 
-🎯 **My career goal:** Backend Engineer in Japan 🇯🇵
+Just a random guy you can see anywhere, who values maintainable software and high-performance applications.
 
-🎓 **Current education:** University of Information Technology (UIT) – Vietnam National University, Ho Chi Minh City
+I'm currently studying Information Technology – Japan Program at the University of Information Technology (UIT), Vietnam National University, Ho Chi Minh City.
+
+My future goal is to work in Japan as a Backend Engineer.
 
 ## Tech Stack
 
@@ -40,25 +42,26 @@ Just a random person you can see anywhere. I like maintainable software yet high
 ## Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /><img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
 </p>
 
 ## DevOps
 
 <div align="left">
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ## Contact
 
 <div align="center">
-
-<a href="https://doyouwantto2.github.io">Portfolio</a> ·
-<a href="https://github.com/doyouwantto2">GitHub</a> ·
-<a href="mailto:tinhphong2580@gmail.com">Email</a>
-
+  <a href="https://doyouwantto2.github.io">Portfolio</a> ·
+  <a href="https://github.com/doyouwantto2">GitHub</a> ·
+  <a href="mailto:tinhphong2580@gmail.com">Email</a>
 </div>
