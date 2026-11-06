@@ -23,10 +23,17 @@ Just a random person you can see anywhere. I like maintainable software yet high
     <td width="50%" valign="top" align="left">
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Tokio-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Diesel-000000?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/SeaORM-000000?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
       <img src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -44,37 +51,7 @@ Just a random person you can see anywhere. I like maintainable software yet high
   <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white" />
 </p>
 
-## Technology
-
-### Frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### ORMs
-
-<p>
-  <img src="https://img.shields.io/badge/Diesel-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/SeaORM-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
-### DevOps & Tools
+## DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
