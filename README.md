@@ -1,5 +1,3 @@
-# Nguyễn Nam Phong
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3178c6&height=170&section=header&text=Nguy%E1%BB%85n%20Nam%20Phong&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20Rust%20%C2%B7%20Maintainable%20Software&descSize=14&descAlignY=60" width="100%" alt="Profile banner" />
@@ -26,24 +24,24 @@ I like maintainable software yet high-performance applications.
   <tr>
     <td width="50%" valign="top" align="left">
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white" />
-        <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" />
+        <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top" align="left">
       <p>
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/Actix_Web-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/Axum-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/Diesel-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
-        <img src="https://img.shields.io/badge/utoipa-000000?style=flat-square&logo=rust&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Actix_Web-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Diesel-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+        <img src="https://img.shields.io/badge/utoipa-000000?style=for-the-badge&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -62,22 +60,25 @@ I like maintainable software yet high-performance applications.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 ## GitHub Activity
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/doyouwantto2/doyouwantto2/main/.github/badges/contributions.json&style=flat" alt="Contributions" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/doyouwantto2/doyouwantto2/main/.github/badges/status.json&style=flat" alt="Activity status" />
+  <img src="https://img.shields.io/github/commit-activity/m/doyouwantto2?style=flat&label=commits%2Fmonth&color=3178c6&logo=github&logoColor=white" alt="Commits per month" />
+  <img src="https://img.shields.io/github/stars/doyouwantto2?style=flat&label=stars&color=ffc131&logo=github&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/doyouwantto2?style=flat&label=followers&color=0f172a&logo=github&logoColor=white" alt="Followers" />
+</p>
 
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/doyouwantto2/doyouwantto2/main/.github/badges/contributions.json" alt="Contributions" />
-<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/doyouwantto2/doyouwantto2/main/.github/badges/status.json" alt="Activity status" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=doyouwantto2&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=doyouwantto2&hide_border=true&short_numbers=true&card_width=380" alt="GitHub contribution streak" width="380" />
+</p>
 
 ## Contact
 
