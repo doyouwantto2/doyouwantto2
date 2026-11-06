@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3178c6&height=170&section=header&text=Nguy%E1%BB%85n%20Nam%20Phong&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Backend%20Engineering%20%C2%B7%20Rust%20%C2%B7%20Maintainable%20Software&descSize=14&descAlignY=60" width="100%" alt="Profile banner" />
-
-*Just a random person you can see anywhere.*
-
-I like maintainable software yet high-performance applications.
-
-</div>
+Just a random person you can see anywhere. I like maintainable software yet high-performance applications.
 
 🎯 **My career goal:** Backend Engineer in Japan 🇯🇵
 
@@ -53,19 +45,13 @@ I like maintainable software yet high-performance applications.
 
 ## DevOps
 
-<div align="center">
+<div align="left">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
-
-## Status
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=doyouwantto2&hide_border=true&short_numbers=true&card_width=380" alt="GitHub contribution streak" width="380" />
-</p>
 
 ## Contact
 
