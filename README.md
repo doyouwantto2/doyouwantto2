@@ -1,7 +1,5 @@
 Just a random guy you can see anywhere, who values maintainable software and high-performance applications.
 
-I'm currently studying Information Technology – Japan Program at the University of Information Technology (UIT), Vietnam National University, Ho Chi Minh City.
-
 My future goal is to work in Japan as a Backend Engineer.
 
 ## Tech Stack
